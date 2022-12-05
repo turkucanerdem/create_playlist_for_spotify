@@ -1,3 +1,3 @@
 # keys
 keys.py
-*.cache
+*.cache*
